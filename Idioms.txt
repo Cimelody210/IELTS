@@ -29,6 +29,16 @@ to express oneself through art: biểu hiện bản thân thông qua nghệ thu�
 # Leverage the awareness of citizens about something : Nâng cao nhận thức của công dân
 # Conduct a citizen arrest: Thực hiện lệnh bắt công dân
 
+human-like intelligence /ˈhjuːmən laɪk ɪnˈtelɪdʒəns/: trí thông minh giống người
+get into trouble with /ɡɛt ˈɪntu ˈtrʌbəl wɪθ/: gặp rắc rối với
+voice recognition system /vɔɪs ˌrɛkəɡˈnɪʃən ˈsɪstəm/: hệ thống nhận dạng giọng nói
+pose a threat /poʊz ə θrɛt/: gây mối đe dọa
+cyber-attack /ˈsaɪbər əˈtæk/: cuộc tấn công mạng
+virtual assistant /ˈvɜːrtʃuəl əˈsɪstənt/: trợ lý ảo
+facial recognition algorithms /ˈfeɪʃəl rɪˈkɒɡnɪʃən ˈælɡərɪðəmz/: thuật toán nhận dạng khuôn mặt
+natural language processing: xử lý ngôn ngữ tự nhiên
+an AI arms race: cuộc chạy đua vũ trang AI
+
 vivaculous: hoạt bác
 inventive: sáng tạo
 humanitarian: nhân đạo
